@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f8efdb;
+}
+
+.container {
+    margin: auto;
+    margin-top: 90px;
+    width: 70%;
+}
+
+.navbar {
+    margin: auto;
+    width: 70%;
+    background-color: #afe989;
+}
+
+.offcanvas-header {
+    font-family: "Rampart One", cursive;
+    background-color: #afe989;
+}
+
+.offcanvas-body {
+    background-color: #d3e4cd;
+}
+
+.navbar-brand {
+    font-family: "Rampart One", cursive;
+}
+
+.btn {
+    font-weight: bold;
+    background-color: #afe989;
+}
+
+.btn:hover {
+    background-color: #8be251;
+}

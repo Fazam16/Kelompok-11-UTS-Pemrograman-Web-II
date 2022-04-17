@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f8efdb;
+}
+
+.container {
+    margin: auto;
+    margin-top: 200px;
+    width: 70%;
+}
+
+.wrap {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 90%;
+    margin-left: 50px;
+}
+
+h1 {
+    font-family: 'Rampart One', cursive;
+    font-weight: bold;
+    font-size: 4em;
+}
+
+input {
+    height: 50px;
+}
+
+button {
+    width: 100%;
+}
+
+#buttonLogin {
+    background-color: #afe989;
+}
+
+#buttonLogin:hover {
+    background-color: #8be251;
+}
+
+#buttonCreate {
+    background-color: #afe989;
+}
+
+#buttonCreate:hover {
+    background-color: #8be251;
+}
+
+.akunBaru {
+    text-decoration: none;
+    color: black;
+}
+
+.akunBaru:hover {
+    color: rgb(16, 113, 248);
+}
+
+.keterangan {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.4em;
+}

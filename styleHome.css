@@ -1,0 +1,20 @@
+body{
+    background-color: #f8efdb;
+}
+h1{
+    font-family: 'Rampart One', cursive;
+}
+.row{
+    text-align: center;
+}
+.navbar{
+    background-color:  #afe989;
+    border-radius: 20px;
+}
+.btn{
+    font-weight: bold;
+    background-color: #afe989;
+}
+.btn:hover{
+    background-color: #8be251;
+}

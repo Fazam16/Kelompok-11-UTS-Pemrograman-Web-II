@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.wrap {
+    padding: 10px;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: "Gemunu Libre", sans-serif;
+    font-weight: bold;
+}
+
+.navbar {
+    border-radius: 10px;
+}
+
+ul .nav-item {
+    text-align: center;
+}
+
+#about {
+    text-align: center;
+}
+
+.containerProfil {
+    border: 6px solid rgb(0, 0, 0);
+    border-radius: 100%;
+    width: 250px;
+    height: 250px;
+}
+
+#container-profil {
+    text-align: center;
+}
+
+#username {
+    padding-top: 10px;
+    font-family: "Bebas Neue", cursive;
+    font-family: "Gemunu Libre", sans-serif;
+    font-size: 30pt;
+    margin-bottom: -4px;
+}
+
+h3 {
+    font-family: "Bebas Neue", cursive;
+    font-family: "Gemunu Libre", sans-serif;
+    font-size: 15pt;
+}
+
+.detailProfile {
+    line-height: 10px;
+}
+
+#editProfile {
+    width: 55%;
+}
+
+.judul {
+    text-align: center;
+}
+
+.aboutme {
+    text-align: justify;
+}
+
+h5 {
+    font-family: "Bebas Neue", cursive;
+    font-family: "Gemunu Libre", sans-serif;
+    font-size: 14pt;
+}
+
+.lulus {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sekolah {
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    height: 115px;
+}
